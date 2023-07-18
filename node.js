@@ -1,5 +1,3 @@
-
-
 function resta( op1, op2) {
     resta = op1 - op2
     return resta
