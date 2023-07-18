@@ -1,8 +1,7 @@
-
-
-
-
-
+function suma(op1, op2, op3) {
+    suma = op1 + op2 + op3
+    return suma
+}
 
 function resta( op1, op2) {
     resta = op1 - op2
